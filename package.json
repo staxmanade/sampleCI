@@ -1,0 +1,11 @@
+{
+  "name": "sampleCI",
+  "version": "0.0.0",
+  "description": "sample test CI",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
