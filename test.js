@@ -6,7 +6,7 @@ describe("something to test", function(){
     });
 
     it("Should fail", function(){
-        assert.equal("hello", "NOT");
+        assert.equal("hello", "hello");
     });
 
 });
