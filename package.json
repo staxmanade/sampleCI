@@ -6,6 +6,6 @@
   "scripts": {
     "test": "mocha test.js"
   },
-  "author": "",
+  "author": "Jason",
   "license": "ISC"
 }
